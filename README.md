@@ -4,7 +4,7 @@
 
 First install `west` according to the Zephyr's documentation(Ubuntu)
 
-[Zephyr guide](https://docs.zephyrproject.org/latest/guides/west/install.html)	"west guide"
+[West guide](https://docs.zephyrproject.org/latest/guides/west/install.html)
 
 ```shell
 pip3 install --user -U west
